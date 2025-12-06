@@ -4,8 +4,9 @@ __pycache__/
 *$py.class
 
 # Data files
-Data/
+# Data/
 .csv
+Data/MachineLearning_v3.csv
 notebook/TxtIntoCsv.ipynb
 
 # C extensions
