@@ -1,0 +1,4 @@
+# Ignore all files tracked by DVC in this folder
+# *
+/MachineLearningRating_v3.txt
+/Machinelearning_v3.csv
