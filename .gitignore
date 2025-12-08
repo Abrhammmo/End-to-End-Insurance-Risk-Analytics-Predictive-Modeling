@@ -7,7 +7,6 @@ __pycache__/
 # Data/
 .csv
 Data/MachineLearning_v3.csv
-.gitignore
 notebook/TxtIntoCsv.ipynb
 
 # C extensions
